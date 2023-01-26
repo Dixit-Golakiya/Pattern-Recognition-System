@@ -3,6 +3,6 @@ This repository contains a pattern recognition system implemented in Python. The
 
 # Requirements
 Python 3.x
-NumPy
-Scikit-learn
-Matplotlib (for visualizing the data and results)
+<br />  NumPy
+<br />  Scikit-learn
+<br />  Matplotlib (for visualizing the data and results)
